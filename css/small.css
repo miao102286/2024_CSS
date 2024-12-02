@@ -94,6 +94,9 @@
     .intro>img:first-child {
         display: none; 
     }
+    .intro>img{
+        width: 100%;
+    }
     .intro .summary {
        display: flex;
        justify-content: center;
